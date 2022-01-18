@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/emersoninacio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emerson-inacio&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emerson-inacio&layout=compact&langs_count=7&theme=great-gatsby"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=emerson-inacio&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emerson-inacio&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
 <div style="display: inline_block"><br>
     <img align="center" alt="Emerson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
