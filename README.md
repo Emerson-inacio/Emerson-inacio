@@ -1,4 +1,4 @@
-## Oiii eu sou a Emerson Inácio
+## ola! sou o Emerson Inácio
 
 <div align="center">
   <a href="https://github.com/emersoninacio">
